@@ -10,3 +10,4 @@ class OrderStatus(models.Model):
     def __str__(self):
         self.name
     
+class Order
